@@ -1,3 +1,8 @@
+# 1.8.7
+
+- Fix fallback compat causing some crashes
+- Fix some sneaking related render glitches
+
 # 1.8.6
 
 - Port to 1.20.4, thank you to @ellet0, #332
